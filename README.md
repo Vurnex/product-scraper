@@ -22,3 +22,14 @@ The server makes use of HTML Agility Pack to scrape data from the websites.
 - Accessing and storing data in an AWS Database
 
 *Most of the project files have been omitted to reduce the size and time to upload. Only the code demonstrating the implementation is left.
+
+## Pictures
+
+Main 
+
+![image](https://user-images.githubusercontent.com/107071736/210182888-3a8e4561-1dd1-4920-ae68-c2790389f878.png)
+
+Data Displayed
+
+![image](https://user-images.githubusercontent.com/107071736/210182940-ae4fccb4-1e43-4f61-aea7-3a3319809a99.png)
+
