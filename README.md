@@ -21,6 +21,13 @@ The server makes use of HTML Agility Pack to scrape data from the websites.
 - Using WCF Service Library
 - Accessing and storing data in an AWS Database
 
+## What I Would Like To Improve In This Project
+
+- Format JSON data in a clean way
+- Code refactoring. There is repetitive code on the server side that can be drastically reduced.
+- Change the client to be in RESTful style.
+- Store scraping links in a separate class / file.
+
 *Most of the project files have been omitted to reduce the size and time to upload. Only the code demonstrating the implementation is left.
 
 ## Pictures
